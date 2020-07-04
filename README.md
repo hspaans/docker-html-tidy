@@ -1,6 +1,6 @@
 # html-tidy
 
-Docker image for HTML-Tidy, http://www.html-tidy.org/
+Docker image for HTML-Tidy, <http://www.html-tidy.org/>
 
 ## Usage
 
